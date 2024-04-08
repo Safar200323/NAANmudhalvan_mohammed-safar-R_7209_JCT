@@ -1,3 +1,17 @@
+# NotesSharing_webApp_NM_FullStackPDjango_Project
+
+Project Developed by:
+
+Name : Mohammed safar R
+Regnumber : 720921244032 , college name : jct college of engineering and techonology
+
+
+Login credentials:
+
+
+Username: admin
+
+Password: admin
 # django-notesapp
 Notes Sharing App using django(python framework)
 
